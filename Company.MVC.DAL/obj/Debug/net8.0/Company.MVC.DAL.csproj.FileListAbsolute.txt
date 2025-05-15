@@ -1,0 +1,12 @@
+E:\T_Mar0\Company\Company.MVC.DAL\bin\Debug\net8.0\Company.MVC.DAL.deps.json
+E:\T_Mar0\Company\Company.MVC.DAL\bin\Debug\net8.0\Company.MVC.DAL.dll
+E:\T_Mar0\Company\Company.MVC.DAL\bin\Debug\net8.0\Company.MVC.DAL.pdb
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.csproj.AssemblyReference.cache
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.AssemblyInfoInputs.cache
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.AssemblyInfo.cs
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.dll
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\refint\Company.MVC.DAL.dll
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\Company.MVC.DAL.pdb
+E:\T_Mar0\Company\Company.MVC.DAL\obj\Debug\net8.0\ref\Company.MVC.DAL.dll

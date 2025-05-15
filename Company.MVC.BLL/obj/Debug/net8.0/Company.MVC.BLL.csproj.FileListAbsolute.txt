@@ -1,0 +1,15 @@
+E:\T_Mar0\Company\Company.MVC.BLL\bin\Debug\net8.0\Company.MVC.BLL.deps.json
+E:\T_Mar0\Company\Company.MVC.BLL\bin\Debug\net8.0\Company.MVC.BLL.dll
+E:\T_Mar0\Company\Company.MVC.BLL\bin\Debug\net8.0\Company.MVC.BLL.pdb
+E:\T_Mar0\Company\Company.MVC.BLL\bin\Debug\net8.0\Company.MVC.DAL.dll
+E:\T_Mar0\Company\Company.MVC.BLL\bin\Debug\net8.0\Company.MVC.DAL.pdb
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.csproj.AssemblyReference.cache
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.AssemblyInfoInputs.cache
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.AssemblyInfo.cs
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.csproj.CoreCompileInputs.cache
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.csproj.CopyComplete
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.dll
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\refint\Company.MVC.BLL.dll
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\Company.MVC.BLL.pdb
+E:\T_Mar0\Company\Company.MVC.BLL\obj\Debug\net8.0\ref\Company.MVC.BLL.dll
