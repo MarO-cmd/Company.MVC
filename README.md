@@ -1,5 +1,10 @@
 # Company System MVC
 
+[![ASP.NET MVC 5.0](https://img.shields.io/badge/ASP.NET%20MVC-5.0-blue.svg)](https://dotnet.microsoft.com/)
+[![C# 8.0](https://img.shields.io/badge/C%23-8.0-purple.svg)](https://dotnet.microsoft.com/)
+[![Identity 3.1](https://img.shields.io/badge/Identity-3.1-green.svg)](https://dotnet.microsoft.com/)
+[![AutoMapper 10.0](https://img.shields.io/badge/AutoMapper-10.0-orange.svg)](https://automapper.org/)
+
 An ASP.NET MVC application for company management with user authentication and data handling capabilities.
 
 ## About
